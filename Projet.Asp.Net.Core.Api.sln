@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projet.Asp.Net.Core.Api", "Projet.Asp.Net.Core.Api.csproj", "{E4887696-99FC-46C0-A916-CA82EDD347F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApi", "..\TestWebApi\TestWebApi.csproj", "{0778DDEB-1440-409B-8E5C-37ECD0412B5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{6FCB5F29-8F27-46B4-B46A-B0D0A1442BFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{D5CF9D53-670F-45C6-AF89-1CE9AE2011ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfieAWookies.Core.Domain", "..\SelfieAWookies.Core.Domain\SelfieAWookies.Core.Domain.csproj", "{0422E294-7199-46E1-ABDB-52BCE6AE8B49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfieAWookies.Core.Infratructure", "..\SelfieAWookies.Core.Infratructure\SelfieAWookies.Core.Infratructure.csproj", "{88328FA4-515A-4517-B294-B9B2F5129117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfieAWookie.Dotnet.Framework", "..\SelfieAWookie.Dotnet.Framework\SelfieAWookie.Dotnet.Framework.csproj", "{20AABCDF-1664-4CE5-A95D-5D89F1E1DBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4887696-99FC-46C0-A916-CA82EDD347F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4887696-99FC-46C0-A916-CA82EDD347F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4887696-99FC-46C0-A916-CA82EDD347F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4887696-99FC-46C0-A916-CA82EDD347F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0778DDEB-1440-409B-8E5C-37ECD0412B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0778DDEB-1440-409B-8E5C-37ECD0412B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0778DDEB-1440-409B-8E5C-37ECD0412B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0778DDEB-1440-409B-8E5C-37ECD0412B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0422E294-7199-46E1-ABDB-52BCE6AE8B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0422E294-7199-46E1-ABDB-52BCE6AE8B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0422E294-7199-46E1-ABDB-52BCE6AE8B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0422E294-7199-46E1-ABDB-52BCE6AE8B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88328FA4-515A-4517-B294-B9B2F5129117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88328FA4-515A-4517-B294-B9B2F5129117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88328FA4-515A-4517-B294-B9B2F5129117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88328FA4-515A-4517-B294-B9B2F5129117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20AABCDF-1664-4CE5-A95D-5D89F1E1DBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AABCDF-1664-4CE5-A95D-5D89F1E1DBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AABCDF-1664-4CE5-A95D-5D89F1E1DBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AABCDF-1664-4CE5-A95D-5D89F1E1DBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0778DDEB-1440-409B-8E5C-37ECD0412B5C} = {6FCB5F29-8F27-46B4-B46A-B0D0A1442BFF}
+		{0422E294-7199-46E1-ABDB-52BCE6AE8B49} = {D5CF9D53-670F-45C6-AF89-1CE9AE2011ED}
+		{88328FA4-515A-4517-B294-B9B2F5129117} = {D5CF9D53-670F-45C6-AF89-1CE9AE2011ED}
+		{20AABCDF-1664-4CE5-A95D-5D89F1E1DBAA} = {D5CF9D53-670F-45C6-AF89-1CE9AE2011ED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E04B8A9-2432-439F-B112-7C7F8281C692}
+	EndGlobalSection
+EndGlobal
