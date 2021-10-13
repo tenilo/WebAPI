@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Selfie.AWookie.Core.Framework/1.0.0": {
+        "runtime": {
+          "Selfie.AWookie.Core.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selfie.AWookie.Core.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

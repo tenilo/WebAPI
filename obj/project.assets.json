@@ -1562,45 +1562,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "SelfieAWookie.Dotnet.Framework/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/SelfieAWookie.Dotnet.Framework.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SelfieAWookie.Dotnet.Framework.dll": {}
-        }
-      },
-      "SelfieAWookies.Core.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "SelfieAWookie.Dotnet.Framework": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SelfieAWookies.Core.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SelfieAWookies.Core.Domain.dll": {}
-        }
-      },
-      "SelfieAWookies.Core.Infratructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.3",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.3",
-          "SelfieAWookie.Dotnet.Framework": "1.0.0",
-          "SelfieAWookies.Core.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SelfieAWookies.Core.Infratructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SelfieAWookies.Core.Infratructure.dll": {}
-        }
       }
     }
   },
@@ -5999,29 +5960,14 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "SelfieAWookie.Dotnet.Framework/1.0.0": {
-      "type": "project",
-      "path": "../SelfieAWookie.Dotnet.Framework/SelfieAWookie.Dotnet.Framework.csproj",
-      "msbuildProject": "../SelfieAWookie.Dotnet.Framework/SelfieAWookie.Dotnet.Framework.csproj"
-    },
-    "SelfieAWookies.Core.Domain/1.0.0": {
-      "type": "project",
-      "path": "../SelfieAWookies.Core.Domain/SelfieAWookies.Core.Domain.csproj",
-      "msbuildProject": "../SelfieAWookies.Core.Domain/SelfieAWookies.Core.Domain.csproj"
-    },
-    "SelfieAWookies.Core.Infratructure/1.0.0": {
-      "type": "project",
-      "path": "../SelfieAWookies.Core.Infratructure/SelfieAWookies.Core.Infratructure.csproj",
-      "msbuildProject": "../SelfieAWookies.Core.Infratructure/SelfieAWookies.Core.Infratructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj",
+      "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.3",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.11.1",
-      "SelfieAWookies.Core.Domain >= 1.0.0",
-      "SelfieAWookies.Core.Infratructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6031,11 +5977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\Projet.Asp.Net.Core.Api.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\WebAPI.Asp.Net.Core\\Projet.Asp.Net.Core.Api.csproj",
       "projectName": "Projet.Asp.Net.Core.Api",
-      "projectPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\Projet.Asp.Net.Core.Api.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\WebAPI.Asp.Net.Core\\Projet.Asp.Net.Core.Api.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\WebAPI.Asp.Net.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6052,11 +5998,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj"
+            "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj"
             },
-            "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj"
+            "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj"
             }
           }
         }
@@ -6105,5 +6051,25 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

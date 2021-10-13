@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fr8cqfqdbVKRODU2J5+AzTphd6lRZ3JYw/mAhQLQ3UADPnAM92hnad3SOrSALYLt6w3/gMtVd6OkiNXJ9mvI+Q==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\Projet.Asp.Net.Core.Api.csproj",
+  "dgSpecHash": "jCHyBlBOsBYKARWly5wZSm3gsjt0CGc80joSIl9UMyM74aU5BOkPSm6JBLVSIHuzvR+rSYE3mLqQe91koVWeyg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\WebAPI.Asp.Net.Core\\Projet.Asp.Net.Core.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -106,5 +106,24 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Infratructure\\SelfieAWookies.Core.Infratructure.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Desktop\\village_de_emploi\\programmation_.net_framework\\Projet.Asp.Net.Core.Api\\SelfieAWookies.Core.Domain\\SelfieAWookies.Core.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

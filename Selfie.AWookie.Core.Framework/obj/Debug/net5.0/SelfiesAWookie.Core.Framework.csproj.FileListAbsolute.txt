@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\bin\Debug\net5.0\SelfiesAWookie.Core.Framework.deps.json
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\bin\Debug\net5.0\SelfiesAWookie.Core.Framework.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\bin\Debug\net5.0\ref\SelfiesAWookie.Core.Framework.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\bin\Debug\net5.0\SelfiesAWookie.Core.Framework.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.AssemblyInfo.cs
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\ref\SelfiesAWookie.Core.Framework.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\Selfie.AWookie.Core.Framework\obj\Debug\net5.0\SelfiesAWookie.Core.Framework.pdb

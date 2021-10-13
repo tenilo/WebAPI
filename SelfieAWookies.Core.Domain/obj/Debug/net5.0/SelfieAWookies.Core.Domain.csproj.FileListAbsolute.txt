@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\bin\Debug\net5.0\SelfieAWookies.Core.Domain.deps.json
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\bin\Debug\net5.0\SelfieAWookies.Core.Domain.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\bin\Debug\net5.0\ref\SelfieAWookies.Core.Domain.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\bin\Debug\net5.0\SelfieAWookies.Core.Domain.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.AssemblyInfo.cs
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\ref\SelfieAWookies.Core.Domain.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\bin\Debug\net5.0\SelfieAWookie.Dotnet.Framework.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\bin\Debug\net5.0\SelfieAWookie.Dotnet.Framework.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SelfieAWookies.Core.Domain\obj\Debug\net5.0\SelfieAWookies.Core.Domain.csproj.CopyComplete
